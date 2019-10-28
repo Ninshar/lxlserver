@@ -1,3 +1,8 @@
-!function(){
-  console.log('这是引入的包入口')
-}()
+module.exports = {
+  test(){
+    console.log('test')
+  },
+  consoleTest(data){
+    console.log(data);
+  }
+};

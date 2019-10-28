@@ -1,6 +1,6 @@
 {
   "name": "lxlserver",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "静态资源启动服务",
   "main": "index.js",
   "scripts": {
